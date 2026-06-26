@@ -1,4 +1,4 @@
-# FIDO2 Passwordless Authentication Demo
+# FIDO2 Passwordless Authentication 
 
 This repository contains a small Node.js and Express demo that implements a real WebAuthn/FIDO2 passwordless sign-in flow. It uses your device's built-in authenticator, such as Windows Hello, Touch ID, or Android biometrics, and requires user verification so registration and login prompt for a PIN or biometric.
 
