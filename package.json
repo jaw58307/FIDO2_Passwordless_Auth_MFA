@@ -1,0 +1,16 @@
+{
+  "name": "fido2-pin-demo",
+  "version": "1.0.0",
+  "description": "Real FIDO2 / WebAuthn registration and login, using your device's PIN or biometric as user verification",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@simplewebauthn/browser": "^13.3.0",
+    "@simplewebauthn/server": "^13.3.2",
+    "express": "^5.2.1"
+  }
+}

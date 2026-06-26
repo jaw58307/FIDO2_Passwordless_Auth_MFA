@@ -1,0 +1,7 @@
+# This project uses Node.js dependencies instead of Python packages.
+# Install them with:
+# npm install
+
+express>=5.2.1
+@simplewebauthn/server>=13.3.2
+@simplewebauthn/browser>=13.3.0
