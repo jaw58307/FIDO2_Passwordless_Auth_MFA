@@ -14,6 +14,7 @@ This repository contains a small Node.js and Express demo that implements a real
 - Node.js 18 or newer
 - A browser and device that support WebAuthn platform authenticators
 - For local testing, use localhost, which browsers treat as a secure context
+- (NOTE: Please extract all files before installing npm package respectively)
 
 ## Installation
 
